@@ -1,5 +1,21 @@
 [
   {
+    "id": "noche-de-juegos-2026-07-07-3",
+    "title": "Noche de Juegos",
+    "start": "2026-07-07T19:30:00-03:00",
+    "venue": "Mercado Williman",
+    "address": "Mercado Williman",
+    "image": "https://live.staticflickr.com/7658/17941640550_3c59782b07_b.jpg",
+    "description": "Una noche relajada para jugar, charlar y conocer gente nueva. Nosotros ponemos varios juegos, pero también podés traer el tuyo.",
+    "highlights": [
+      "Entrada gratuita",
+      "Podés venir solo/a o acompañado/a",
+      "Traé tus propios juegos"
+    ],
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Williman",
+    "instagramUrl": "https://www.instagram.com/connect.uruguay/"
+  },
+  {
     "id": "noche-de-juegos-2026-07-30-2",
     "title": "Noche de Juegos",
     "start": "2026-07-30T19:30:00-03:00",
@@ -19,22 +35,6 @@
     "id": "noche-de-juegos-2026-07-30-4",
     "title": "Noche de Juegos",
     "start": "2026-07-30T19:30:00-03:00",
-    "venue": "Mercado Williman",
-    "address": "Mercado Williman",
-    "image": "https://live.staticflickr.com/7658/17941640550_3c59782b07_b.jpg",
-    "description": "Una noche relajada para jugar, charlar y conocer gente nueva. Nosotros ponemos varios juegos, pero también podés traer el tuyo.",
-    "highlights": [
-      "Entrada gratuita",
-      "Podés venir solo/a o acompañado/a",
-      "Traé tus propios juegos"
-    ],
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mercado%20Williman",
-    "instagramUrl": "https://www.instagram.com/connect.uruguay/"
-  },
-  {
-    "id": "noche-de-juegos-2026-08-06-3",
-    "title": "Noche de Juegos",
-    "start": "2026-08-06T19:30:00-03:00",
     "venue": "Mercado Williman",
     "address": "Mercado Williman",
     "image": "https://live.staticflickr.com/7658/17941640550_3c59782b07_b.jpg",
